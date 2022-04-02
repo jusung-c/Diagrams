@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-01T12:43:19.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="xQVtErXkU9VtCrL4Eozm" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-02T13:39:44.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="2I7vsTMrOc0NPmIbdeVi" version="17.1.4" type="github">
   <diagram id="xsgkuVyssu5jpHOOODqd" name="Page-1">
     <mxGraphModel dx="1492" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1997,6 +1997,30 @@
             <mxPoint x="1250" y="3690" as="sourcePoint" />
             <mxPoint x="1250" y="3630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="__ra1SWTvrsB5ijciZFd-134" value="UTF-8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="915" y="3920" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="__ra1SWTvrsB5ijciZFd-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeColor=#000000;" edge="1" parent="1" source="__ra1SWTvrsB5ijciZFd-136" target="__ra1SWTvrsB5ijciZFd-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="__ra1SWTvrsB5ijciZFd-136" value="1 or 0" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="920" y="3980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__ra1SWTvrsB5ijciZFd-137" value="경우의 수&amp;nbsp; 2개" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="3985" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="__ra1SWTvrsB5ijciZFd-140" value="1 or 0" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="920" y="4050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__ra1SWTvrsB5ijciZFd-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;strokeColor=#000000;" edge="1" parent="1" source="__ra1SWTvrsB5ijciZFd-141" target="__ra1SWTvrsB5ijciZFd-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="__ra1SWTvrsB5ijciZFd-141" value="1 or 0" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="4050" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__ra1SWTvrsB5ijciZFd-142" value="경우의 수&amp;nbsp; 4개" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="4055" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
