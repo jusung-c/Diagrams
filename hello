@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-02T13:39:44.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="2I7vsTMrOc0NPmIbdeVi" version="17.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T10:17:07.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="MdPji8mTYV3X_54nMm5m" version="17.1.4" type="github">
   <diagram id="xsgkuVyssu5jpHOOODqd" name="Page-1">
-    <mxGraphModel dx="1492" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2021,6 +2021,9 @@
         </mxCell>
         <mxCell id="__ra1SWTvrsB5ijciZFd-142" value="경우의 수&amp;nbsp; 4개" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1130" y="4055" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="__ra1SWTvrsB5ijciZFd-145" value="경곽당 N+1 후보 정후&lt;br&gt;정후 말고도 N명의 후보&lt;br&gt;&lt;br&gt;&amp;nbsp;1 x p : p 후보 + x장&lt;br&gt;2 x y :&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="830" y="4165" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
